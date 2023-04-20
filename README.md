@@ -1,3 +1,7 @@
+.ve-header "Diary #1" https://edisondigital.rutgers.edu/iiif/MA019 "Menlo Park N.J. July 12, 1885" pct:30,30,60,40 center sticky
+    - [Home](/)
+    - [About](/about)==placeholder=={Menlo Park N.J. July 12, 1885}==placeholder=={Menlo Park N.J. July 16, 1885}[]
+    
 # Diary #5 
 
 ## Menlo Park N.J. July 16, 1885
